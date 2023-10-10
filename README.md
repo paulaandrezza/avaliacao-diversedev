@@ -19,11 +19,17 @@ A) -1;
 
 B) 0;
 
-C) 1;
+`C) 1;`
 
 D) 21;
 
 E) Irá dar erro
+
+A resposta é `C`.
+
+O resultado de `(21 > 21)` é `false`, mas como tem o `!`, que é o operador de negação, ele inverte para `true`.
+
+O `Convert.ToInt16` é usado para converter um valor boleano em número, e `true` em inteiro é o mesmo que `1`, se fosse `false` seria `0`.
 
 5 - Analise o código a seguir.
 
@@ -44,4 +50,6 @@ C) –2, 1, 4, 7
 
 D) –5, –2, 1, 4
 
-E) –5, –2, 1, 4, 7
+`E) –5, –2, 1, 4, 7`
+
+A resposta é `E` pois o for começa com `i = -5`, esse é o primeiro valor que entra dentro do bloco, na próxima interação, ele soma `3` a esse valor, ficando com `i = -2`, nas próximas interações ele recebe `1, 4 e 7` respectivamente. O `7` é impresso pois o for continua até que `i <= 7` não sejá mais verdadeira, e isso só acontece quando ele se tornar `10`.

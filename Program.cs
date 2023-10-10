@@ -38,6 +38,8 @@ namespace Desafios_DiverseDev
                 }
             }
 
+            Console.WriteLine();
+
             desafios[numberChallenge - 1].Execute();
         }
 

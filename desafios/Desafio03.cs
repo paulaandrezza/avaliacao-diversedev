@@ -22,8 +22,6 @@ class Desafio03 : Desafio
 
             foreach (string palavra in palavras)
             {
-                Console.WriteLine(palavra);
-
                 if (Char.IsUpper(palavra[0]))
                     iniMaiuscula++;
                 else
