@@ -22,16 +22,19 @@ class Desafio03 : Desafio
 
             foreach (string palavra in palavras)
             {
-                if (Char.IsUpper(palavra[0]))
-                    iniMaiuscula++;
-                else
-                    iniMinuscula++;
+                if (!Char.IsDigit(palavra[0]))
+                {
+                    if (Char.IsUpper(palavra[0]))
+                        iniMaiuscula++;
+                    else
+                        iniMinuscula++;
+                }
 
                 foreach (char letra in palavra)
                 {
-                    if (Char.IsUpper(letra))
+                    if (Char.IsUpper(letra) || Char.IsDigit(letra))
                         todasMinusculas = false;
-                    if (Char.IsLower(letra))
+                    if (Char.IsLower(letra) || Char.IsDigit(letra))
                         todasMaiusculas = false;
                 }
 
