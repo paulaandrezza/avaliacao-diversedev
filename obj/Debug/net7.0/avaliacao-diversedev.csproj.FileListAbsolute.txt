@@ -1,0 +1,14 @@
+C:\Users\paula\Documents\Code\Ada\DiverseDev\avaliacao-diversedev\bin\Debug\net7.0\avaliacao-diversedev.exe
+C:\Users\paula\Documents\Code\Ada\DiverseDev\avaliacao-diversedev\bin\Debug\net7.0\avaliacao-diversedev.deps.json
+C:\Users\paula\Documents\Code\Ada\DiverseDev\avaliacao-diversedev\bin\Debug\net7.0\avaliacao-diversedev.runtimeconfig.json
+C:\Users\paula\Documents\Code\Ada\DiverseDev\avaliacao-diversedev\bin\Debug\net7.0\avaliacao-diversedev.dll
+C:\Users\paula\Documents\Code\Ada\DiverseDev\avaliacao-diversedev\bin\Debug\net7.0\avaliacao-diversedev.pdb
+C:\Users\paula\Documents\Code\Ada\DiverseDev\avaliacao-diversedev\obj\Debug\net7.0\avaliacao-diversedev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Documents\Code\Ada\DiverseDev\avaliacao-diversedev\obj\Debug\net7.0\avaliacao-diversedev.AssemblyInfoInputs.cache
+C:\Users\paula\Documents\Code\Ada\DiverseDev\avaliacao-diversedev\obj\Debug\net7.0\avaliacao-diversedev.AssemblyInfo.cs
+C:\Users\paula\Documents\Code\Ada\DiverseDev\avaliacao-diversedev\obj\Debug\net7.0\avaliacao-diversedev.csproj.CoreCompileInputs.cache
+C:\Users\paula\Documents\Code\Ada\DiverseDev\avaliacao-diversedev\obj\Debug\net7.0\avaliacao-diversedev.dll
+C:\Users\paula\Documents\Code\Ada\DiverseDev\avaliacao-diversedev\obj\Debug\net7.0\refint\avaliacao-diversedev.dll
+C:\Users\paula\Documents\Code\Ada\DiverseDev\avaliacao-diversedev\obj\Debug\net7.0\avaliacao-diversedev.pdb
+C:\Users\paula\Documents\Code\Ada\DiverseDev\avaliacao-diversedev\obj\Debug\net7.0\avaliacao-diversedev.genruntimeconfig.cache
+C:\Users\paula\Documents\Code\Ada\DiverseDev\avaliacao-diversedev\obj\Debug\net7.0\ref\avaliacao-diversedev.dll
