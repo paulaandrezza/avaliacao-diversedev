@@ -1,5 +1,4 @@
 ﻿using System;
-using System.IO;
 using System.Runtime.Intrinsics.X86;
 
 // Considerei o 0 como positivo
